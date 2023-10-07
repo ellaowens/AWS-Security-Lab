@@ -1,5 +1,6 @@
 <h3 align="center"> AWS SECURITY LAB </h3>
 
+##
 
 In our Phase-2 group cybersecurity lab project at TKH, we embarked on an exciting journey to demonstrate our understanding and practical application of a wide range of AWS services within the AWS Cloud Environment. Collaborating closely as a team, we delved into the intricate world of cybersecurity, showcasing our knowledge, skills, and abilities across numerous AWS services:
 
@@ -36,7 +37,7 @@ Our mission was to craft a cloud-native cybersecurity lab that encompassed vario
 
 ##
 
-Here are a few screenshots of the work done. Each team member worked on a set component. I focused on Offensive Security (Kali Linux):
+**Here are a few screenshots of the work done. Each team member worked on a set component.** I focused on Offensive Security (Kali Linux):
 
 <h3 align="center"> <img width="660" alt="image" src="https://github.com/ellaowens/AWS-Security-Lab/assets/114102710/7d209222-7a38-4563-a013-76cdc32b5bed"> </h3>
 
