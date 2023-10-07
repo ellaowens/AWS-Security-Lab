@@ -1,6 +1,5 @@
-<h3 align="center"> AWS SECURITY LAB </h3>
+<h1 align="center"> AWS SECURITY LAB </h1>
 
-##
 
 In our Phase-2 group cybersecurity lab project at TKH, we embarked on an exciting journey to demonstrate our understanding and practical application of a wide range of AWS services within the AWS Cloud Environment. Collaborating closely as a team, we delved into the intricate world of cybersecurity, showcasing our knowledge, skills, and abilities across numerous AWS services:
 
